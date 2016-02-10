@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[My personal blog..]]></title>
+        <description><![CDATA[My personal blog..]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 16:43:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OD Racing]]></title>
+            <description><![CDATA[<article><h1>OD Racing</h1><p>OD Racing - Fuji Round</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb9c3ca4-8f7e-4505-a999-e83cdf89d6af.jpg"></article>]]></description>
+            <link>undefinedod-racing/index.html</link>
+            <guid isPermaLink="false">9db82dc5-0820-4283-96e6-d4517231abd0</guid>
+            <pubDate>Wed, 10 Feb 2016 16:40:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
